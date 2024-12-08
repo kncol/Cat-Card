@@ -1,0 +1,50 @@
+body{
+    font-family: Madimi One;
+    color:white;
+    background-color: #F4DBC9;
+}
+
+.navbar-orange{
+    background-color: #B48A7B;
+}
+
+.tan{
+    background-color: #DFAE9C;
+}
+.brown-border{
+    border: solid;
+    border-width: 20px;
+    border-radius: 10px;
+    border-color: #B48A7B;
+}
+
+.brown{
+    color: #B48A7B;
+}
+.brown::placeholder{
+    color: #c79684;
+}
+
+.brown-background{
+    background-color: #B48A7B;
+}
+.brown-background:hover{
+    background-color: #c79684;
+}
+.magra{
+    font-family: "Magra", serif;
+}
+
+.light-tan{
+    color: #FFEEE0;
+}
+
+#card{
+    display: none;
+}
+a{
+    color: #FFEEE0;
+}
+a:hover{
+    color: #DFAE9C;
+}
